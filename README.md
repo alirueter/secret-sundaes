@@ -4,9 +4,9 @@
 This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend ist. Express.js was used for routing, MongoDB was used for the database, and Mongoose was used as the ODM.
 
 ## Walk-through Videos
-The following videos will show all of the api routes being tested using Insomnia Core. 
-[Part 1](https://drive.google.com/file/d/1AsJGoj23RNbIOZY24dTIyhV9qrqHRmTN/view)
-[Part 2](https://drive.google.com/file/d/1AsJGoj23RNbIOZY24dTIyhV9qrqHRmTN/view)
+The following videos will show all of the api routes being tested using Insomnia Core.  
+[Part 1](https://drive.google.com/file/d/1AsJGoj23RNbIOZY24dTIyhV9qrqHRmTN/view)  
+[Part 2](https://drive.google.com/file/d/1AsJGoj23RNbIOZY24dTIyhV9qrqHRmTN/view)  
 [Part 3](https://drive.google.com/file/d/1rjf9JclAOyLf7Yq8qXXxf67O2s-NTzpP/view)
 
 ## Installation
