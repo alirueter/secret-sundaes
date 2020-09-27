@@ -12,7 +12,8 @@ const UserSchema = new Schema (
             type: String,
             required: "Please enter an email!",
             unique: true,
-            match: [`/.+\@.+\..+/`]
+            // regex to validate email - ensures the user typed at least one character before the @ and one after
+            match: [/.{1,}@[^.]{1,}/]
         },
         thoughts: [],
         friends: []
